@@ -1,2 +1,17 @@
-# Web-Development
-A collection of free website templates, samples, pages and more!
+### About
+This section will be updated soon
+
+---
+
+### Content
+This section will be updated soon
+
+---
+
+### Documentation
+This section will be updated soon
+
+---
+
+### Contact & Socials
+This section will be updated soon!
